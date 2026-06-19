@@ -1,7 +1,7 @@
 # Food Delivery Time Prediction
 
 ## Project Overview
-Analyzed food delivery data to identify factors affecting delivery time and built a predictive model to estimate delivery duration."
+Analyzed food delivery data to identify factors affecting delivery time and built a predictive model to estimate delivery duration.
 
 ## Dataset
 The dataset contains information about:
