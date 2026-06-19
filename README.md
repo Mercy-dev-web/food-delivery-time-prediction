@@ -1,7 +1,7 @@
 # Food Delivery Time Prediction
 
 ## Project Overview
-This project predicts food delivery time using machine learning and Python.
+Analyzed food delivery data to identify factors affecting delivery time and built a predictive model to estimate delivery duration."
 
 ## Dataset
 The dataset contains information about:
