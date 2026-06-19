@@ -1,45 +1,36 @@
 # Food Delivery Time Prediction
 
 ## Project Overview
+This project predicts food delivery time using machine learning and Python.
 
-This project predicts food delivery times using machine learning.
+## Dataset
+The dataset contains information about:
+- Delivery person age
+- Delivery ratings
+- Order type
+- Vehicle type
+- Restaurant location
+- Delivery location
 
-The goal is to estimate how long a delivery will take based on:
-
-- Delivery person's age
-- Delivery person's ratings
-- Distance between restaurant and customer
-- Type of order
-- Type of vehicle
-
-## Tools Used
-
+## Technologies Used
 - Python
 - Pandas
-- Scikit-Learn
-- VS Code
-
-## Data Preparation
-
-- Checked for missing values
-- Encoded categorical variables using LabelEncoder
-- Created a distance feature from latitude and longitude coordinates
+- NumPy
+- Scikit-learn
 
 ## Model
-
 Linear Regression
 
-## Results
-
+## Evaluation Metrics
 - Mean Absolute Error (MAE): 6.64 minutes
-- R² Score: 0.183
+- R² Score: 0.18
 
-## Key Findings
-
-- Vehicle type influences delivery time
-- Meal orders tend to take slightly longer
-- Distance is more informative than raw coordinates
+## Files
+- analysis.py
+- Food_delivery.csv
+- Food Delivery Time Prediction Case Study.xlsx
 
 ## Author
+Naya (Mercy Ijegbai)
 
-Ijegbai Mercy Gift
+
