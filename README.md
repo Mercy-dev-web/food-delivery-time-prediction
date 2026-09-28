@@ -31,6 +31,6 @@ Linear Regression
 - Food Delivery Time Prediction Case Study.xlsx
 
 ## Author
-Naya (Mercy Ijegbai)
+Mercy Ijegbai
 
 
